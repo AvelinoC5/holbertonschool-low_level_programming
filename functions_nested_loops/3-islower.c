@@ -6,7 +6,7 @@
 *Description: use the prototype for
 *retunr 1 if lowercase or print 0
 *is not lowercase
-*Return 0
+*Return: 0
 */
 
 int _islower(int c)
