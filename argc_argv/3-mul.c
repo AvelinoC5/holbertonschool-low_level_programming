@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 /**
- * _atoi - converts a string to an integer
- * @s: string to be converted
- * Return: the int converted from the string
+ *main - description multiplies two numbers
+ *@argc: argument count
+ *@argv: argument vector
+ *Return: 0
  */
 
 int main(int argc, char *argv[])
