@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * malloc_checked.c - White a funcion that allocates memory using malloc
+ * malloc_checked - White a funcion that allocates memory using malloc
  * @b: int b
  * Return: pointer to the allocated memory
  */
