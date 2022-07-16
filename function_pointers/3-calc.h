@@ -1,6 +1,7 @@
-#ifndef CALC_H
-#define CALC_H
+#ifndef CALCULATOR
+#define CALCULATOR
 
+#include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
