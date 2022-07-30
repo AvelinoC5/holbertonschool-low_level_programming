@@ -5,7 +5,6 @@
  *@h: header pointer of the list
  *Return: elementes of the list
  */
-
 size_t print_listint(const listint_t *h)
 {
 	unsigned int count = 0;
