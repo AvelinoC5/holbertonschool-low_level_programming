@@ -1,5 +1,6 @@
 # C - Search Algorithms
 
+
 ## General Objectives
 
 * What is a search algorithm
